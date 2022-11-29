@@ -1,0 +1,1 @@
+SELECT * FROM drivers_license WHERE gender='female' AND hair_color='red' and car_make='Tesla';
